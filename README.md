@@ -1,12 +1,12 @@
 # Financial News Analysis
 
-This repository contains code for analyzing financial news data and its correlation with stock market movements. It is part of a challenge aimed at refining skills in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE).
+This repository contains code for analyzing financial news data and its correlation with stock market movements. It is part of a challenge aimed at refining skills in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE) at 10 Academy.
 
 ## Challenge Overview
 
 This project focuses on the detailed analysis of a large corpus of financial news data to discover correlations between news sentiment and stock market movements. The challenge includes tasks related to setting up the environment, performing exploratory data analysis (EDA), fetching stock prices, quantitative analysis, and correlation analysis.
 
-## Task 4: Correlation between News and Stock Movement
+## Correlation between News and Stock Movement
 
 In this task, we aim to establish statistical correlations between the sentiment derived from news articles and the corresponding stock price movements. This involves normalizing dates, conducting sentiment analysis on news headlines, calculating daily stock returns, and determining the correlation between daily news sentiment scores and stock returns.
 

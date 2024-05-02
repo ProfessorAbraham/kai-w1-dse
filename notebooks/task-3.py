@@ -5,7 +5,7 @@ import pynance as pn
 
 # Load and prepare the data
 # Replace 'YOUR_STOCK_TICKER' with the actual ticker symbol of the stock you want to analyze
-stock_data = pn.data.get('YOUR_STOCK_TICKER')
+stock_data = pn.data.get('C:\\Users\\Professor Ab\\OneDrive - amu.edu.et\\Desktop\\Data Science\\kai-w1-dse\\data\\raw_analyst_ratings.csv')
 # You can also read your data from a CSV file if you have it stored locally
 
 # Calculate basic technical indicators using TA-Lib
